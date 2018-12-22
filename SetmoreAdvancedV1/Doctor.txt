@@ -1,0 +1,24 @@
+Doctor details Table
+
+
+Doctor id	Doctor Name	Appointment Charge	Dept		Appointment Duration		Working Hours		Email		Phone
+
+TwAvr		John		$500			Ent		45			09:00	to  15:00		john@gmail.com	9988383244
+
+9hJwG		Ram		$150			Skin		30			08:00	to  13:00		ram@gmail.com	0987654321
+
+kVrmF		Priya		$300			Neurology	60			08:00	to  16:00		priya@gmail.com	0987654321
+
+
+eNnIx		Paris		$400			Eye		50			07:00	to  12:00		paris@gmail.com	0987654321
+
+ejQYk		Sree		$100			Ent		20			09:00	to  21:00		sree@gmail.com	0987654321
+
+
+
+kGAJb		6		$100			Skin		30			09:00	to  14:00		satya@gmail.com	0987654321
+
+
+
+C2nfz		Rajeev		$1000			Ent		40			09:00	to  17:00		rajeev@gmail.com	0987654321
+

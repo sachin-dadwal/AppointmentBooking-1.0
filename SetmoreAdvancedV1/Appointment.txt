@@ -1,0 +1,31 @@
+Appointment details Table
+
+
+Appointment ID:	Doctor Name:		Department:	Appointment date:	Patient ID:
+
+Xl8qK		John			Ent		2018/09/26		mV12n
+
+
+XBekB		Ram			Skin		2018/09/26		QhBeD
+
+
+wma4g		Sree			Ent		2018/09/27		FXY28
+
+
+82Bj3		ram			Skin		2018/09/27		x5TKA
+
+
+EbPJj		sree			Ent		2018/09/27		HA6pt
+
+
+bOPxO		Ram			Skin		2018/09/27		HDXKL
+
+
+S3gTS		Ram			Skin		2018/09/27		wnvQH
+
+
+Mji1U		6					Skin		2018/09/29		IaCFq
+
+
+WouoR		Rajeev					Ent		2018/10/10		06FNK
+

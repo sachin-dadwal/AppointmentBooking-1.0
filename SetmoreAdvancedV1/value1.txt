@@ -1,0 +1,29 @@
+
+
+Doctor details Table
+
+
+
+
+Doctor id	Doctor Name	Appointment Charge	Dept		Appointment Duration		Working Hours		Email		Phone
+
+
+
+TwAvr		John		$500			Ent		45			09:00	to  15:00		john@gmail.com	9988383244
+
+
+
+9hJwG		Ram		$150			Skin		30			08:00	to  13:00		ram@gmail.com	0987654321
+
+
+
+
+
+
+
+
+ejQYk		Sree		$100			Ent		20			09:00	to  21:00		sree@gmail.com	0987654321
+
+
+
+

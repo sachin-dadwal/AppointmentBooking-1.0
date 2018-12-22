@@ -1,0 +1,31 @@
+Patient details Table
+
+
+Patient id	Patient Name	Patient Age	Patient Email	Patient Contact Number
+
+mV12n		Sachin		23		sachin@gmail.com	0987654321
+
+
+
+QhBeD		Sree		23		sree@gmail.com		0987654321
+
+
+FXY28		sachin		23		sachin@gmail.com	0987654321
+
+
+x5TKA		nami		26		fgh@gmail.com		1234567890
+
+
+HA6pt		nami		25		nam@gmail.com		1234567890
+
+
+HDXKL		sACHIN		13		sachin@gmail.com	0987654321
+
+
+wnvQH		k		3		sachin@gmail.com 	1234567890
+
+
+IaCFq		sachin		23		sac@gmail.com			0987654321
+
+
+06FNK		sachin		23		sachin@gmail.com			0987654321

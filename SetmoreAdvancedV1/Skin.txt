@@ -1,0 +1,9 @@
+Doctor details Table
+
+
+Doctor Name	Dept
+
+Ram		Skin
+
+6		Skin
+

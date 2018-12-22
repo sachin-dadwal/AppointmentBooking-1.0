@@ -1,0 +1,6 @@
+Doctor details Table
+
+
+Doctor Name	Dept
+
+Priya		Neurology

@@ -1,0 +1,13 @@
+Doctor details Table
+
+
+Doctor Name	Dept
+
+John		Ent
+
+Sree		Ent
+
+
+
+Rajeev		Ent
+
